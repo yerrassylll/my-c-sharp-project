@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\bin\Debug\WindowsFormPlusSQL.exe.config
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\bin\Debug\WindowsFormPlusSQL.exe
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\bin\Debug\WindowsFormPlusSQL.pdb
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\obj\Debug\WindowsFormPlusSQL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\obj\Debug\WindowsFormPlusSQL.LoginForm.resources
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\obj\Debug\WindowsFormPlusSQL.Properties.Resources.resources
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\obj\Debug\WindowsFormPlusSQL.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\obj\Debug\WindowsFormPlusSQL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\obj\Debug\WindowsFormPlusSQL.exe
+C:\Users\admin\Desktop\Project C#\WindowsFormPlusSQL\obj\Debug\WindowsFormPlusSQL.pdb
